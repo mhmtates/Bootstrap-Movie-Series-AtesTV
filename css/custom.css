@@ -9325,3 +9325,6 @@ textarea.form-control-lg {
 
 .card-body {
   margin: 0.5rem 0.25rem; }
+
+.nav-link {
+  font-weight: 700; }
