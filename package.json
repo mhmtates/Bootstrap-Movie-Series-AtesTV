@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-movie-platform",
+  "name": "bootstrap-movie-series-atestv",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.3.3",
+    "node-modules": "^1.0.1",
     "node-sass": "^9.0.0"
   }
 }
