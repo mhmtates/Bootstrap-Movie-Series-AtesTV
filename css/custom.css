@@ -9304,17 +9304,9 @@ textarea.form-control-lg {
   width: 100%;
   height: 30rem; }
 
-.section-popular-productions #carousel_captions_2 .carousel-inner .carousel-item img {
+.section-genre-title .carousel-inner .carousel-item img {
   width: 12rem;
-  height: 12rem; }
-
-.section-latest-productions #carousel_captions_3 .carousel-inner .carousel-item img {
-  width: 12rem;
-  height: 12rem; }
-
-.section-drama-series #carousel_captions_4 .carousel-inner .carousel-item img {
-  width: 12rem;
-  height: 12rem; }
+  height: 10rem; }
 
 #footer .container {
   height: 10rem; }
